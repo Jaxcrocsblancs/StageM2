@@ -1,0 +1,11 @@
+Donnée d'entré
+gaussien 3D avec point d'apprentissage en grille
+
+Dsom
+initialisé au hazard (-1 1)
+
+Apprentissage 
+selon différente taille de reseaux et avec des eta différent
+
+Question:
+Quel est le meilleur eta selon la taille du réseaux

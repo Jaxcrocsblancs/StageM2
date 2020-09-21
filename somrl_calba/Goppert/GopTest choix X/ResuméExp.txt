@@ -1,0 +1,10 @@
+Donnée d'entré
+gaussien 3D avec point d'apprentissage en grille
+
+Dsom
+initialisé au hazard (-1 1)
+
+Apprentissage en fournissant des X uniquement supérieur à la distortion moyenne 
+
+Question:
+Es que le choix de X mal appris améliore significativement l'apprentissage

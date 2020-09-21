@@ -1,0 +1,10 @@
+Donnée d'entré
+gaussien 3D avec point d'apprentissage en grille
+
+Dsom
+initialisé au hazard (-1 1)
+
+Apprentissage "classique" sauvegarde de l'evolution de gop
+
+Question:
+Es que l'application de goppert s'améliore avec le temps et es que la taille de la grille l'influence

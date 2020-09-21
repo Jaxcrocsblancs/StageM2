@@ -1,0 +1,7 @@
+Donnée d'entré
+gaussien 3D avec point d'apprentissage en grille
+
+Dsom
+initialisé au hazard (-1 1)
+
+Apprentissage "classique" avec modification de epsilon selon la distortion moyenne
